@@ -1,1 +1,2 @@
 This file is a placeholder
+Now we have edited it on the github website. Then we will retrieve these changes on our local machines.
