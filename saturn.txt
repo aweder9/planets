@@ -1,3 +1,2 @@
 Adding a conflicting line to investigate conflict resolution between github file and local file
-
 MPO: Adding another line to the saturn file
